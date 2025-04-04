@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Marketing AI Platform - Engie Digital Ads Campaign Optimization
 
-## Getting Started
+A Next.js-based platform that simulates AI-powered digital advertising campaign optimization for Engie. This project serves as a UX/UI demonstration of how AI agents could dynamically manage and optimize advertising campaigns across multiple platforms.
 
-First, run the development server:
+## 🌐 Live Demo
+
+The platform is accessible at: [https://engie-ia-marketer.vercel.app/](https://engie-ia-marketer.vercel.app/)
+
+## 🎯 Project Overview
+
+This project demonstrates a conceptual interface for an AI-driven marketing platform that would:
+
+- Simulate AI agents interacting with various advertising platforms
+- Showcase dynamic campaign strategy updates
+- Present a modern, intuitive user interface for campaign management
+- Demonstrate potential AI-driven optimization workflows
+
+> **Note**: This is a UI/UX demonstration project and is not connected to real data or actual advertising platforms.
+
+## 🚀 Features
+
+- Modern, responsive user interface
+- Simulated AI agent interactions
+- Campaign performance visualization
+- Strategy optimization suggestions
+- Multi-platform campaign management interface
+
+## 🛠️ Tech Stack
+
+- **Framework**: Next.js
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Deployment**: Vercel
+
+## 🏗️ Getting Started
+
+1. Clone the repository:
+
+```bash
+git clone [repository-url]
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+3. Run the development server:
 
 ```bash
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📁 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `/app` - Main application pages and routing
+- `/components` - Reusable UI components
+- `/lib` - Utility functions and shared logic
+- `/public` - Static assets
 
-## Learn More
+## 🔧 Development
 
-To learn more about Next.js, take a look at the following resources:
+This project uses:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js App Router
+- TypeScript for type safety
+- Tailwind CSS for styling
+- Modern React patterns and best practices
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📝 Notes
 
-## Deploy on Vercel
+- This is a UI/UX demonstration project
+- No real data integration
+- Simulated AI interactions
+- Focus on user experience and interface design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🤝 Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This project was only for training so it will not be updated.
+
+## 📄 License
+
+This project is proprietary and confidential. All rights reserved.
