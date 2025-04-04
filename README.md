@@ -4,7 +4,7 @@ A Next.js-based platform that simulates AI-powered digital advertising campaign 
 
 ## 🌐 Live Demo
 
-The platform is accessible at: [https://engie-ia-marketer.vercel.app/](https://engie-ia-marketer.vercel.app/)
+The platform is accessible at: [https://engie-ia-marketer.vercel.app/dashboard](https://engie-ia-marketer.vercel.app/dashboard)
 
 ## 🎯 Project Overview
 
